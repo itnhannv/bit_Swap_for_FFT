@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#define  N               128
-#define  LOG_2_N         7
+#define  N               256
+#define  LOG_2_N         8
 
 char *String_data = "RE";
 int bitRev(int a, int nBits)
